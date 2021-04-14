@@ -1,0 +1,41 @@
+*
+    {
+        margin: 0;
+        padding: 0;
+    }
+
+body 
+    {
+        background-image: url("layout.png");;
+    }
+
+header
+    {
+        position: relative;
+        width: 1000px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+button
+    {
+        margin: 15px;
+        padding: 20px;
+        border: 1px solid #C5DAE2;
+        border-radius: 5px;
+        width: 150px;
+        background-color: #354F52;
+
+        
+    }
+
+button a 
+    {
+        text-decoration: none;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px;
+        color: #FFFFFF;
+        
+    }
